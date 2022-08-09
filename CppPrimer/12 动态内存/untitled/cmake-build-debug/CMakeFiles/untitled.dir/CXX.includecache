@@ -1,0 +1,82 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/paulyu/Desktop/Books/cpp-primer-exercise/12 动态内存/untitled/QueryResult.h
+string
+-
+vector
+-
+set
+-
+StrBlob.h
+/Users/paulyu/Desktop/Books/cpp-primer-exercise/12 动态内存/untitled/StrBlob.h
+
+/Users/paulyu/Desktop/Books/cpp-primer-exercise/12 动态内存/untitled/StrBlob.h
+vector
+-
+string
+-
+initializer_list
+-
+memory
+-
+StrBlobPtr.h
+/Users/paulyu/Desktop/Books/cpp-primer-exercise/12 动态内存/untitled/StrBlobPtr.h
+
+/Users/paulyu/Desktop/Books/cpp-primer-exercise/12 动态内存/untitled/StrBlobPtr.h
+memory
+-
+vector
+-
+string
+-
+
+/Users/paulyu/Desktop/Books/cpp-primer-exercise/12 动态内存/untitled/TextQuery.h
+string
+-
+vector
+-
+set
+-
+map
+-
+QueryResult.h
+/Users/paulyu/Desktop/Books/cpp-primer-exercise/12 动态内存/untitled/QueryResult.h
+StrBlob.h
+/Users/paulyu/Desktop/Books/cpp-primer-exercise/12 动态内存/untitled/StrBlob.h
+
+/Users/paulyu/Desktop/Books/cpp-primer-exercise/12 动态内存/untitled/main.cpp
+iostream
+-
+string
+-
+fstream
+-
+list
+-
+map
+-
+set
+-
+vector
+-
+unordered_map
+-
+sstream
+-
+queue
+-
+sstream
+-
+TextQuery.h
+/Users/paulyu/Desktop/Books/cpp-primer-exercise/12 动态内存/untitled/TextQuery.h
+StrBlob.h
+/Users/paulyu/Desktop/Books/cpp-primer-exercise/12 动态内存/untitled/StrBlob.h
+StrBlobPtr.h
+/Users/paulyu/Desktop/Books/cpp-primer-exercise/12 动态内存/untitled/StrBlobPtr.h
+
